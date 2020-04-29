@@ -178,5 +178,5 @@ public class Menu {
 //		System.out.println("Lista de colecciones:");
 //		gesPel.listaColecciones();
 	}
-
+// prueba de otro cambio
 }

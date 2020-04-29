@@ -10,7 +10,7 @@ import java.util.Map.Entry;
 import java.util.Set;
 
 public class GestionColeciones {
-
+// Comentario de prueba
 	List<String> listNombres;
 	Set<String> conjProductos;
 	Map<Integer,String> mapTareas;
